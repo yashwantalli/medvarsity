@@ -1,0 +1,22 @@
+# model: "gpt-4o-2024-11-20"
+# # model: "anthropic/claude-sonnet-4-6"
+# retrieve_model: "gpt-5.4"  # defaults to `model` if not set
+
+#commented model in retrieve_model 
+# model: "ollama/qwen2.5-coder:7b"
+# retrieve_model: "ollama/qwen2.5-coder:7b"
+
+model: "ollama/gemma4:e2b"
+retrieve_model: "ollama/gemma4:e2b"
+
+# model: "gemini/gemini-2.5-pro"
+# retrieve_model: "gemini/gemini-2.5-pro"
+# model: "gemini/gemini-2.5-flash"
+# retrieve_model: "gemini/gemini-2.5-flash"
+toc_check_page_num: 20
+max_page_num_each_node: 10
+max_token_num_each_node: 20000
+if_add_node_id: "yes"
+if_add_node_summary: "yes"
+if_add_doc_description: "no"
+if_add_node_text: "no"
