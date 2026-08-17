@@ -1,0 +1,30 @@
+ML pipeline 
+
+take an uncleaned data 
+clean it, handle the missing values ( not by standard procedures like not by mean, median mode , )
+
+do proper eda  
+
+feature engg
+
+based on the data what kind of model shall be used evaluate which model to be used 
+
+## evaluation metrics 
+
+accuracy
+precision 
+recall(sensitivity)
+speficity
+f1 score
+auc curve
+prc curve
+confution matrix
+classification report
+MCC
+Cohen's Kappa
+Probaility Distribution Plot
+Threshold analysis
+shap plot and values 
+
+
+qLhsw0CyygynFU1yPV5srw
